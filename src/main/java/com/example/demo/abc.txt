@@ -1,0 +1,1 @@
+git remote add eureka-server git@github.com:praneethyerireddi/eureka-server.git
